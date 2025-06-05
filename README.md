@@ -15,7 +15,7 @@ Features
 Usage
 To run the application:
 - Clone the repository:
-git clone <your-repo-url>
+git clone (https://ruchik353.github.io/Shutdown-App/)
 - Navigate to the directory and run the script:
 python shutdown_app.py
 
